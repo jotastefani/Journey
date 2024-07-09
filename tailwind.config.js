@@ -12,6 +12,7 @@ module.exports = {
         colors,
         fontFamily,
       },
+      
     },
     plugins: [],
   }
